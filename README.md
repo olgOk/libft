@@ -2,7 +2,7 @@
 ======================== 
 Implementation of some C Standart Library functions including additionals.
 
-**Contents**
+###Contents
 -----------------------
 <li> [What is libft](#what-is-libft)
 <li> [What inside the libft]()
