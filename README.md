@@ -13,7 +13,7 @@ Implementation of some C Standart Library functions including additionals.
 
 **What is libft**
 -----------------------
-[Libft][1] is an individual project at 42 Silicon Valley that requires us to re-code some C Standart Library functions including some additional. When developing this library I gained a very deep and thorough understanding in the C  Programming Language along with the great understanding of data structures, algorithms, unit testing, continuous integration, troubleshooting, and proper documentation.
+Libft is an individual project at 42 Silicon Valley that requires us to re-code some C Standart Library functions including some additional. When developing this library I gained a very deep and thorough understanding in the C  Programming Language along with the great understanding of data structures, algorithms, unit testing, continuous integration, troubleshooting, and proper documentation.
 
 **What inside the libft**
 -----------------------------
@@ -21,8 +21,8 @@ Implementation of some C Standart Library functions including additionals.
 2. *Additional functions:* Useful functions
 3. *Bonus Functions: *
 
-Libc functions 
-:----------- |
+Libc functions | Additional functions |
+:----------- | :----------------------|
 memset	
 bzero		
 memcpy		  
