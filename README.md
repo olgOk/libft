@@ -9,3 +9,11 @@ Implementation of some C Standart Library functions including additionals.
 <li> [How does the libft work]()
 <li> [How to use libft]()
 <li> [How to test the libft]()
+
+
+**What is libft**
+-----------------------
+Libft is an individual project at 42 Silicon Valley that requires us to re-code some C Standart Library functions including some additional. When developing this library I gained a very deep and thorough understanding in the C  Programming Language along with the great understanding of data structures, algorithms, unit testing, continuous integration, troubleshooting, and proper documentation.
+
+**What inside the libft**
+-----------------------------
