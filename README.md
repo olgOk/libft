@@ -51,5 +51,5 @@ isprint		   |                        |
 toupper		   |                        |
 tolower		   |                        |
 
->Blockquote Most of the the files and functions begin with  **ft**. It stands for Fourty Two (42 Silicon Valley school).
+> Most of the the files and functions begin with  **ft**. It stands for Fourty Two (42 Silicon Valley school).
 
