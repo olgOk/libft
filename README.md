@@ -4,8 +4,8 @@ Implementation of some C Standart Library functions including additionals.
 
 **Contents**
 -----------------------
-[What is libft]()
-[What inside the libft]()
-[How does the libft work]()
-[How to use libft]()
-[How to test the libft]()
+<li> [What is libft]()
+<li> [What inside the libft]()
+<li> [How does the libft work]()
+<li> [How to use libft]()
+<li> [How to test the libft]()
