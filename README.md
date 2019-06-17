@@ -23,11 +23,11 @@ Libft is an individual project at 42 Silicon Valley that requires us to re-code 
 
 Libc functions | Additional functions |
 :----------- | :----------------------|
-memset	
-bzero		
-memcpy		  
-memccpy	  
-memmove	
+memset	     |    ft_memalloc
+bzero		     |    ft_memdel	
+memcpy		   |    ft_strnew	
+memccpy	     |    ft_strdel
+memmove	     |    ft_strclr	
 memchr		
 memcmp	
 strlen		
