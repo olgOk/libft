@@ -21,34 +21,34 @@ Libft is an individual project at 42 Silicon Valley that requires us to re-code 
 2. *Additional functions:* Useful functions
 3. *Bonus Functions: *
 
-Libc functions | Additional functions |
-:----------- | :----------------------|
-memset	     |    ft_memalloc
-bzero		     |    ft_memdel	
-memcpy		   |    ft_strnew	
-memccpy	     |    ft_strdel
-memmove	     |    ft_strclr	
-memchr		
-memcmp	
-strlen		
-strdup		
-strcpy		
-strncpy			
-strcat		
-strlcat	
-strchr		
-strrchr
-strstr		
-strnstr	
-strcmp		
-strncmp		
-atoi	
-isalpha		
-isdigit	
-isalnum		
-isascii		
-isprint		
-toupper		
-tolower		
+Libc functions | Additional functions | Bonus functions   |
+:----------- | :----------------------| :-----------------|
+memset	     |    ft_memalloc         |   ft_lstnew
+bzero		     |    ft_memdel	          |   ft_lstdelone
+memcpy		   |    ft_strnew	          |   ft_lstdel
+memccpy	     |    ft_strdel           |   ft_lstadd
+memmove	     |    ft_strclr	          |   ft_lstiter
+memchr		   |    ft_striter          |   ft_lstmap
+memcmp	     |    ft_striteri         |   ft_isspace
+strlen		   |    ft_strmap           |   ft_list_size
+strdup		   |    ft_strmapi	        |
+strcpy		   |    ft_strequ           |
+strncpy			 |    ft_strnequ	        |
+strcat		   |    ft_strsub	          |
+strlcat	     |    ft_strjoin          |
+strchr		   |    ft_strtrim          |
+strrchr      |    ft_strsplit         |
+strstr		   |    ft_itoa             |
+strnstr	     |    ft_putchar	        |
+strcmp		   |    ft_putstr           |
+strncmp		   |    ft_putendl          |
+atoi	       |    ft_putnbr	          |
+isalpha		   |    ft_putchar_fd       |
+isdigit	     |    ft_putstr_fd        |
+isalnum		   |    ft_putendl_fd       |
+isascii		   |    ft_putnbr_fd        |
+isprint		   |                        |
+toupper		   |                        |
+tolower		   |                        |
 
 
