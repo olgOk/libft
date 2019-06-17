@@ -17,3 +17,6 @@ Libft is an individual project at 42 Silicon Valley that requires us to re-code 
 
 **What inside the libft**
 -----------------------------
+1. Libc Functions: Standard C functions
+2. Additional functions: Useful functions
+3. Bonus Functions: 
