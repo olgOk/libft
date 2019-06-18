@@ -54,6 +54,7 @@ tolower		   |                        |
 > Most of the the files and functions begin with  **ft**. It stands for Fourty Two (42 Silicon Valley school).
 
 **How does the libft work**
+------------------------------
 The goal is to create a library called libft.a from the source files so you can later use that library from other projects at 42.
 
 To create the library, after downloading/cloning this project, **cd** into the project, copy all the files from the subdirectiry to the root directory and finally, call make:
@@ -68,7 +69,7 @@ In order to remove the library:
 2. call `make fclean` (removing the .o and .a files from the root).
 
 **How to use libft**
-
+---------------------------
 You have to tell the file where your library resides and which library it is using:
 
 `gcc yourtest.c -L. -lft -o yourtest.out`
