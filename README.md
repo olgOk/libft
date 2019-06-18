@@ -8,7 +8,6 @@ Implementation of some C Standart Library functions including additionals.
 * [What inside the libft](#what-inside-the-libft)
 * [How does the libft work](#how-does-the-libft-work)
 * [How to use libft](#how-to-use-libft)
-* [How to test the libft](#how-to-test-the-libft)
 
 
 **What is libft**
